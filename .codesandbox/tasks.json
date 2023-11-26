@@ -16,23 +16,19 @@
     },
     "dev:db": {
       "name": "dev:db",
-      "command": "npm run dev:db",
-      "runAtStart": false
+      "command": "npm run dev:db"
     },
     "build": {
       "name": "build",
-      "command": "npm run build",
-      "runAtStart": false
+      "command": "npm run build"
     },
     "lint": {
       "name": "lint",
-      "command": "npm run lint",
-      "runAtStart": false
+      "command": "npm run lint"
     },
     "preview": {
       "name": "preview",
-      "command": "npm run preview",
-      "runAtStart": false
+      "command": "npm run preview"
     }
   }
 }
